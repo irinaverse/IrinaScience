@@ -6,4 +6,4 @@ Extraordinary stuff in "Robot feelings".
 
 Why does the Alphabet of Life has 4 letters and 200 billion parameters?, looking for answers in "The Alphabet of Life".
 
-Analyzing my first text on James Joyce's masterpiece "Finnegans Wake".
+Analyzing James Joyce's masterpiece "Finnegans Wake".
