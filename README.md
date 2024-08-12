@@ -1,3 +1,5 @@
+## Welcome to Irina Science, my work in progress..
+
 I am always looking for the unseen and new ways to challenge my creativity.
 
 Extraordinary stuff in "Robot feelings".
