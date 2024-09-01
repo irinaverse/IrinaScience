@@ -1,12 +1,15 @@
 ## Welcome to Irina Science
 
-I am always looking for the unseen and new ways to challenge my creativity.
+I am always looking for the unseen and new ways to challenge my creativity:
 
-Extraordinary stuff in "Robot feelings" and (my feelings) after 2 job interviews in tech companies.
+- Extraordinary stuff in "Robot feelings" and
+(my feelings) after 2 job interviews in tech companies.
 
-Why does the Alphabet of Life has 4 letters and 200 billion parameters?, looking for answers in "The Alphabet of Life".
+- Why does the Alphabet of Life has 4 letters and 200 billion parameters?,
+looking for answers in "The Alphabet of Life".
 
-"being feminine in the AI world", linked to unproductivity/infertility when placed in the wrong environment.
+- "being feminine in the AI world",
+linked to unproductivity/infertility when placed in the wrong environment.
 
 ## In fact...
 ...a Data Scientist deals, indeed, with metaphysics! We make the unseen, seen.
