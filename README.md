@@ -1,4 +1,4 @@
-## Welcome to Irina Science, my work in progress..
+## Welcome to Irina Science
 
 I am always looking for the unseen and new ways to challenge my creativity.
 
