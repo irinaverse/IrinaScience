@@ -1,6 +1,4 @@
-## Welcome to Irina Science
-
-I am always looking for the unseen and new ways to challenge my creativity:
+### I am always looking for the unseen and new ways to challenge my creativity:
 
 - Extraordinary stuff in "Robot feelings" and (my feelings) after 2 job interviews in tech companies
 
@@ -8,5 +6,5 @@ I am always looking for the unseen and new ways to challenge my creativity:
 
 - "being feminine in the AI world", linked to unproductivity/infertility when placed in the wrong environment
 
-## In fact...
+### In fact...
 ...a Data Scientist deals, indeed, with metaphysics! We make the unseen, seen.
