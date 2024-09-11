@@ -1,4 +1,4 @@
-## I am always looking for the unseen and new ways to challenge my creativity
+### I am always looking for the unseen and new ways to challenge my creativity
 
 Extraordinary stuff in "Robot feelings" and (my feelings) after 2 job interviews in tech companies:
 - the word $robot$ is a newcomer to the English language
@@ -18,5 +18,5 @@ Why does the Alphabet of Life has 4 letters and 200 billion parameters?, looking
 - try to adapt something that is not adaptable
 - work in progress...
 
-## In fact...
+### In fact...
 ...a Data Scientist deals, indeed, with metaphysics! We make the unseen, seen.
