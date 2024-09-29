@@ -10,4 +10,5 @@ Why does the Alphabet of Life has 4 letters and 200 billion parameters?, looking
 - men live in daily cycles
 - women live in monthly cycles
 - try to adapt something that is not adaptable
+- doing fast, doing better on a continuous basis
 - work in progress...
