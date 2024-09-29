@@ -1,4 +1,4 @@
-## I am always looking for the unseen and Data Science makes the unseen, seen.
+### I am always looking for the unseen and Data Science makes the unseen, seen.
 
 Why does the Alphabet of Life has 4 letters and 200 billion parameters?, looking for answers in "The Alphabet of Life":
 - LLM & DNA decoding
