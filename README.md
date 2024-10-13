@@ -4,6 +4,7 @@ Why does the Alphabet of Life has 4 letters and 200 billion parameters?, looking
 - LLM & DNA decoding
 - DNA is the data, epigenetics is the optimization
 - training data and training ourselves
+- finding my people
 - work in progress..
 
 "being feminine in the AI world", linked to unproductivity/infertility when placed in the wrong environment:
