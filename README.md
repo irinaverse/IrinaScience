@@ -13,3 +13,5 @@ Why does the Alphabet of Life has 4 letters and 200 billion parameters?, looking
 - try to adapt something that is not adaptable
 - doing fast, doing better on a continuous basis
 - work in progress...
+
+<p align = "right"> Click the file names above to read the documents. </p>
