@@ -1,4 +1,4 @@
-## Data Science makes the unseen, seen.
+## Making the unseen, seen.
 <br/>
 
 Why does the Alphabet of Life has 4 letters and 200 billion parameters?, looking for answers in "The Alphabet of Life"
