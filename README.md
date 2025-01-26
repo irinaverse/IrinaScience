@@ -9,6 +9,8 @@ Why does the Alphabet of Life has 4 letters and 200 billion parameters?, looking
 - work in progress..
 
 "being feminine in the AI world", linked to unproductivity/infertility when placed in the wrong environment
+- Is there place for femininity in the AI world or is it a 15 minutes thing? - my experience with tests, job interviews and all the hurry
+- to do things fast is a men's quality, women need more time for everything
 - men live in daily cycles
 - women live in monthly cycles
 - try to adapt something that is not adaptable
