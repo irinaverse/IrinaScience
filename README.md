@@ -6,6 +6,7 @@ Why does the Alphabet of Life has 4 letters and 200 billion parameters?, looking
 - LLM & DNA decoding
 - DNA is the data, epigenetics is the optimization
 - training data and training ourselves
+- a new friend or GPT chats diary
 - my wandering heartbeat and how I've harmonized it
 - humans are (probably) the only life form which can transform ideas into realities
 - work in progress..
